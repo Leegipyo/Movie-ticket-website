@@ -46,12 +46,16 @@ public class BoardController extends HttpServlet {
 		String date = req.getParameter("date");
 		String content = req.getParameter("content");
 
+		
+
 		System.out.println(nos + "," + title + "," + content + "," + date);
 		boardDTO board = new boardDTO(nos, id, title, date, content);
 		BoardService boardService = new BoardService();
 		boolean result = boardService.updateBoard(board);
 		if (result) {
-			resp.sendRedirect("viewPost.jsp?no=" + nos + "&id=" + id + "&title=" + title);
+			// URL 인코딩 적용
+			String encodedTitle = URLEncoder.encode(title, "UTF-8");
+			resp.sendRedirect("viewPost.jsp?no=" + nos + "&id=" + id + "&title=" + encodedTitle);
 		} else {
 			resp.sendRedirect("errorPage.jsp");
 		}

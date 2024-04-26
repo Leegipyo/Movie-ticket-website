@@ -46,14 +46,6 @@ body {
 	margin: 0 auto; /* 좌우 마진을 auto로 설정하여 가로 중앙 정렬 */
 }
 
-/*.input {
-	width: 100%;
-	height: 50px;
-	padding: 0 15px;
-	border: 1px solid #d1d5db;
-	border-radius: 8px;
-	outline: none;
-}*/
 .input {
 	width: 100%; /* 너비를 70%로 설정하여 .input-container 내부에서 중앙 정렬 */
 	margin-left: auto; /* 왼쪽 마진을 auto로 설정하여 우측 정렬 */
@@ -116,7 +108,7 @@ body {
 }
 
 .Change-button {
-	width: 26%;
+	width: 23.5%;
 	cursor: pointer;
 	transition: background-color 0.3s ease;
 	border-radius: 8px;
