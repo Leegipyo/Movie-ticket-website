@@ -36,4 +36,7 @@
 
 ## 🖥️ 페이지 구현 상세
 ### [초기화면]
-<img src="https://github.com/Leegipyo/Leegipyo/assets/154950251/a4dcd7aa-a37e-40b2-a12d-e841161bf107">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/72fcec0f-44bd-4647-bbd9-1b8cce1604c9" width ="700" height="400">
+
+### [로그인]
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/a6a11246-4527-48d3-bfca-23287cc0419e" width ="700" height="400">
