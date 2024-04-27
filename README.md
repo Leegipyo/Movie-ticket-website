@@ -40,3 +40,8 @@
 
 ### [로그인]
 <img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/a6a11246-4527-48d3-bfca-23287cc0419e" width ="700" height="400">
+
+### [이메일 인증, 회원가입]
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/64e78306-85aa-43cc-9794-bc9005d3ead7" width ="700" height="400">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/c04a441d-6cc7-4769-9026-1797146767d5" width ="700" height="400">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/c9c7ca6a-991d-4290-805c-22a24c552b40" width ="700" height="400">
