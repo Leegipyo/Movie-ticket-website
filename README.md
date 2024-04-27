@@ -32,7 +32,7 @@
 - 외부 API 라이브러리 사용
 
 ## 🖼️ 와이어프레임
-<img srd="https://github.com/Leegipyo/Leegipyo/assets/154950251/445bc5fa-9f60-46d3-bcda-87c5642c136c" width ="600" height="500">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/80a9edc7-3256-4645-8a3d-cb7b3e8c0f43" width ="600" height="500">
 
 ## 🖥️ 페이지 구현 상세
 ### [초기화면]
