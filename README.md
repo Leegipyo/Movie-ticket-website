@@ -1,4 +1,4 @@
- <h1 align = "center">Cinematch</h1>
+ <h1 align = "center">CINEMATCH</h1>
  <p align = "center">
 <img src="https://github.com/wngusv/HappyTogeDOG/assets/154950251/ab55104f-a48a-4a14-8cc6-0cda5eb1e29b">
 </p>
