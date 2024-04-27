@@ -52,7 +52,7 @@
 
 - 아이디 찾기
 <img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/db791374-3359-4dd4-980d-45aeda57750c" width ="600" height="300">
-<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/394879e2-8d9e-423b-a2ca-2760eea8609d" width ="600" height="300">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/394879e2-8d9e-423b-a2ca-2760eea8609d" width ="600" height="700">
 <img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/16c77af7-9ff9-495c-b967-63da0bb774de" width ="600" height="300">
 
 - 비밀번호 찾기
@@ -66,3 +66,4 @@
 <img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/778bb7bd-be41-4541-a8af-548da0bc5cd8" width ="600" height="300">
 
 ### [게시판]
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/e0c180e7-e888-4a4c-bc5a-995fd84a8eb5" width ="600" height="300">
