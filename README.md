@@ -31,3 +31,9 @@
 - 웹 페이지 디자인
 - 외부 API 라이브러리 사용
 
+## 🖼️ 와이어프레임
+![와이어프래임](https://github.com/Leegipyo/Leegipyo/assets/154950251/445bc5fa-9f60-46d3-bcda-87c5642c136c)
+
+## 🖥️ 페이지 구현 상세
+### [초기화면]
+<img src="https://github.com/Leegipyo/Leegipyo/assets/154950251/a4dcd7aa-a37e-40b2-a12d-e841161bf107">
