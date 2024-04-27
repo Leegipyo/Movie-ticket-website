@@ -36,12 +36,33 @@
 
 ## 🖥️ 페이지 구현 상세
 ### [초기화면]
-<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/72fcec0f-44bd-4647-bbd9-1b8cce1604c9" width ="700" height="400">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/72fcec0f-44bd-4647-bbd9-1b8cce1604c9" width ="600" height="300">
 
 ### [로그인]
-<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/a6a11246-4527-48d3-bfca-23287cc0419e" width ="700" height="400">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/a6a11246-4527-48d3-bfca-23287cc0419e" width ="600" height="300">
 
 ### [이메일 인증, 회원가입]
-<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/64e78306-85aa-43cc-9794-bc9005d3ead7" width ="700" height="400">
-<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/c04a441d-6cc7-4769-9026-1797146767d5" width ="700" height="400">
-<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/c9c7ca6a-991d-4290-805c-22a24c552b40" width ="700" height="400">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/64e78306-85aa-43cc-9794-bc9005d3ead7" width ="600" height="300">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/c04a441d-6cc7-4769-9026-1797146767d5" width ="600" height="300">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/c9c7ca6a-991d-4290-805c-22a24c552b40" width ="600" height="300">
+
+### [MyPage, 회원정보 조회 및 수정]
+- MyPage
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/300274b0-1bae-461f-9798-afd534d39863" width ="600" height="300">
+
+- 아이디 찾기
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/db791374-3359-4dd4-980d-45aeda57750c" width ="600" height="300">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/394879e2-8d9e-423b-a2ca-2760eea8609d" width ="600" height="300">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/16c77af7-9ff9-495c-b967-63da0bb774de" width ="600" height="300">
+
+- 비밀번호 찾기
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/5a2c70ee-f453-4243-9ffe-c0eb4b8abff7" width ="600" height="300">
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/8d1b589b-0fb6-43da-b8c3-8617343a8640" width ="600" height="300">
+
+- 회원정보 수정
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/f9c3af11-e405-40fc-bd74-4e859171ece3" width ="600" height="300">
+
+- 결제내역
+<img src="https://github.com/Leegipyo/Concluding-remarks/assets/154950251/778bb7bd-be41-4541-a8af-548da0bc5cd8" width ="600" height="300">
+
+### [게시판]
