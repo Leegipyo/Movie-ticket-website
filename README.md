@@ -4,6 +4,7 @@
 - **2024.04.01** ~ **2024.04.16**
 
 ## 🛠️ Tech Stack
+### Frontend and Backend
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
